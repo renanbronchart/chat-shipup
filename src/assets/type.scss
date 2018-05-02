@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+h1, h1, h3, h4, h5, h6, a, p, span, button {
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(15,32,49,0.7);
+}
+
+.text--white {
+  color: white;
+}
+
+.primary {
+  background-color: #1976D2
+}
+
+.secondary {
+  background-color: #424242
+}
+
+.accent {
+  background-color: #82B1FF
+}
+
+.error {
+  background-color: #FF5252
+}
+
+.info {
+  background-color: #2196F3
+}
+
+.success {
+  background-color: #4CAF50
+}
+
+.warning {
+  background-color: #FFC107
+}
+
